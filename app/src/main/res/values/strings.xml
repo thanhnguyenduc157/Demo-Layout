@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LayoutApplication</string>
+    <string name="lbl_orange_view">My Height = 2x\nPink View height;\nWidth = Height\nCenter to parent view</string>
+</resources>
